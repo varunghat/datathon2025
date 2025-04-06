@@ -1,3 +1,8 @@
+### Team Daterminators
+Instructions to run: 
+Use the ipynb file and execute the cells after "validate part" to get the results
+All the logic and code is contained in the file itself. 
+
 ### Introduction
 Private banks face a crucial challenge in ensuring that client onboarding processes are efficient, secure, and compliant with regulatory requirements. Manual verification of client data can be time-consuming and prone to errors, leading to delayed or incorrect onboarding decisions.
 
